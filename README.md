@@ -44,3 +44,4 @@ evidence of dynamic pricing behavior.
 ## Author
 
 Merlin Mirley Moreno Palacios
+04/2026
