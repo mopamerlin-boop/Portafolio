@@ -36,11 +36,11 @@ evidence of dynamic pricing behavior.
 
 ## 📁 Structure
 
-- `flixbus-analysis/` → Econometric modeling and pricing analysis  
-- `ryanair-scraping/` → Web scraping, data cleaning, and exploratory analysis  
+- `flixbus/` → Econometric modeling and pricing analysis  
+- `Ryanair/` → Web scraping, data cleaning, and exploratory analysis  
 
 ---
 
-## 📌 Author
+## Author
 
 Merlin Mirley Moreno Palacios
